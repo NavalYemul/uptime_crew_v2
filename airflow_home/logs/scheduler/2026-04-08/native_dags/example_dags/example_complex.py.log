@@ -1,0 +1,120 @@
+[2026-04-08T12:47:51.686+0530] {processor.py:186} INFO - Started process (PID=18081) to work on /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2026-04-08T12:47:51.687+0530] {processor.py:914} INFO - Processing file /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2026-04-08T12:47:51.687+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:47:51.687+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2026-04-08T12:47:51.693+0530] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2026-04-08T12:47:51.778+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:47:51.778+0530] {override.py:1912} INFO - Created Permission View: can delete on DAG:example_complex
+[2026-04-08T12:47:51.782+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:47:51.782+0530] {override.py:1912} INFO - Created Permission View: can read on DAG:example_complex
+[2026-04-08T12:47:51.785+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:47:51.785+0530] {override.py:1912} INFO - Created Permission View: can edit on DAG:example_complex
+[2026-04-08T12:47:51.789+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:47:51.789+0530] {override.py:1912} INFO - Created Permission View: can delete on DAG Run:example_complex
+[2026-04-08T12:47:51.792+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:47:51.791+0530] {override.py:1912} INFO - Created Permission View: can create on DAG Run:example_complex
+[2026-04-08T12:47:51.794+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:47:51.794+0530] {override.py:1912} INFO - Created Permission View: can read on DAG Run:example_complex
+[2026-04-08T12:47:51.796+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:47:51.796+0530] {override.py:1912} INFO - Created Permission View: menu access on DAG Run:example_complex
+[2026-04-08T12:47:51.796+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:47:51.796+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-08T12:47:51.801+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:47:51.801+0530] {dag.py:3262} INFO - Creating ORM DAG for example_complex
+[2026-04-08T12:47:51.802+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:47:51.802+0530] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2026-04-08T12:47:51.809+0530] {processor.py:208} INFO - Processing /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.125 seconds
+[2026-04-08T12:50:38.073+0530] {processor.py:186} INFO - Started process (PID=19987) to work on /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2026-04-08T12:50:38.074+0530] {processor.py:914} INFO - Processing file /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2026-04-08T12:50:38.075+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:50:38.075+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2026-04-08T12:50:38.081+0530] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2026-04-08T12:50:38.126+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:50:38.126+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-08T12:50:38.131+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:50:38.131+0530] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2026-04-08T12:50:38.140+0530] {processor.py:208} INFO - Processing /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.068 seconds
+[2026-04-08T12:54:10.422+0530] {processor.py:186} INFO - Started process (PID=21876) to work on /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2026-04-08T12:54:10.426+0530] {processor.py:914} INFO - Processing file /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2026-04-08T12:54:10.427+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:54:10.427+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2026-04-08T12:54:10.443+0530] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2026-04-08T12:54:10.560+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:54:10.559+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-08T12:54:10.573+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:54:10.572+0530] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2026-04-08T12:54:10.596+0530] {processor.py:208} INFO - Processing /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.180 seconds
+[2026-04-08T12:57:22.525+0530] {processor.py:186} INFO - Started process (PID=23738) to work on /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2026-04-08T12:57:22.525+0530] {processor.py:914} INFO - Processing file /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2026-04-08T12:57:22.526+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:57:22.526+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2026-04-08T12:57:22.532+0530] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2026-04-08T12:57:22.579+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:57:22.578+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-08T12:57:22.584+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:57:22.584+0530] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2026-04-08T12:57:22.596+0530] {processor.py:208} INFO - Processing /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.073 seconds
+[2026-04-08T13:00:12.988+0530] {processor.py:186} INFO - Started process (PID=25578) to work on /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2026-04-08T13:00:12.989+0530] {processor.py:914} INFO - Processing file /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2026-04-08T13:00:12.990+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:00:12.990+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2026-04-08T13:00:12.996+0530] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2026-04-08T13:00:13.041+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:00:13.041+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-08T13:00:13.047+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:00:13.046+0530] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2026-04-08T13:00:13.055+0530] {processor.py:208} INFO - Processing /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.069 seconds
+[2026-04-08T13:02:53.882+0530] {processor.py:186} INFO - Started process (PID=27430) to work on /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2026-04-08T13:02:53.884+0530] {processor.py:914} INFO - Processing file /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2026-04-08T13:02:53.884+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:02:53.884+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2026-04-08T13:02:53.891+0530] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2026-04-08T13:02:53.939+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:02:53.938+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-08T13:02:53.944+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:02:53.944+0530] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2026-04-08T13:02:53.954+0530] {processor.py:208} INFO - Processing /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.075 seconds
+[2026-04-08T13:05:42.791+0530] {processor.py:186} INFO - Started process (PID=29375) to work on /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2026-04-08T13:05:42.792+0530] {processor.py:914} INFO - Processing file /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2026-04-08T13:05:42.793+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:05:42.793+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2026-04-08T13:05:42.799+0530] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2026-04-08T13:05:42.845+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:05:42.845+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-08T13:05:42.851+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:05:42.851+0530] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2026-04-08T13:05:42.859+0530] {processor.py:208} INFO - Processing /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.069 seconds
+[2026-04-08T13:08:28.657+0530] {processor.py:186} INFO - Started process (PID=31180) to work on /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2026-04-08T13:08:28.658+0530] {processor.py:914} INFO - Processing file /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2026-04-08T13:08:28.659+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:08:28.659+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2026-04-08T13:08:28.666+0530] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2026-04-08T13:08:28.717+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:08:28.717+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-08T13:08:28.723+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:08:28.722+0530] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2026-04-08T13:08:28.732+0530] {processor.py:208} INFO - Processing /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.077 seconds
+[2026-04-08T13:11:13.212+0530] {processor.py:186} INFO - Started process (PID=33055) to work on /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2026-04-08T13:11:13.213+0530] {processor.py:914} INFO - Processing file /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2026-04-08T13:11:13.214+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:11:13.213+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2026-04-08T13:11:13.220+0530] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2026-04-08T13:11:13.265+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:11:13.265+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-08T13:11:13.271+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:11:13.270+0530] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2026-04-08T13:11:13.278+0530] {processor.py:208} INFO - Processing /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.068 seconds
+[2026-04-08T13:13:59.640+0530] {processor.py:186} INFO - Started process (PID=34879) to work on /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2026-04-08T13:13:59.640+0530] {processor.py:914} INFO - Processing file /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2026-04-08T13:13:59.641+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:13:59.641+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2026-04-08T13:13:59.648+0530] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2026-04-08T13:13:59.696+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:13:59.696+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-08T13:13:59.702+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:13:59.702+0530] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2026-04-08T13:13:59.710+0530] {processor.py:208} INFO - Processing /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.073 seconds
+[2026-04-08T13:16:47.326+0530] {processor.py:186} INFO - Started process (PID=36780) to work on /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2026-04-08T13:16:47.327+0530] {processor.py:914} INFO - Processing file /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2026-04-08T13:16:47.327+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:16:47.327+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2026-04-08T13:16:47.334+0530] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2026-04-08T13:16:47.382+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:16:47.382+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-08T13:16:47.388+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:16:47.388+0530] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2026-04-08T13:16:47.397+0530] {processor.py:208} INFO - Processing /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.073 seconds
+[2026-04-08T13:20:20.373+0530] {processor.py:186} INFO - Started process (PID=38676) to work on /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2026-04-08T13:20:20.375+0530] {processor.py:914} INFO - Processing file /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2026-04-08T13:20:20.376+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:20:20.376+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2026-04-08T13:20:20.382+0530] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2026-04-08T13:20:20.429+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:20:20.429+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-08T13:20:20.435+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:20:20.435+0530] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2026-04-08T13:20:20.445+0530] {processor.py:208} INFO - Processing /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.073 seconds
+[2026-04-08T13:34:27.589+0530] {processor.py:186} INFO - Started process (PID=40774) to work on /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2026-04-08T13:34:27.589+0530] {processor.py:914} INFO - Processing file /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2026-04-08T13:34:27.590+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:34:27.590+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2026-04-08T13:34:27.596+0530] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2026-04-08T13:34:27.641+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:34:27.641+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-08T13:34:27.646+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:34:27.646+0530] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2026-04-08T13:34:27.654+0530] {processor.py:208} INFO - Processing /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.067 seconds
+[2026-04-08T13:47:01.545+0530] {processor.py:186} INFO - Started process (PID=42887) to work on /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2026-04-08T13:47:01.545+0530] {processor.py:914} INFO - Processing file /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2026-04-08T13:47:01.546+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:47:01.546+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2026-04-08T13:47:01.552+0530] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2026-04-08T13:47:01.604+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:47:01.604+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-08T13:47:01.612+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:47:01.612+0530] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2026-04-08T13:47:01.622+0530] {processor.py:208} INFO - Processing /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.079 seconds
+[2026-04-08T13:55:43.412+0530] {processor.py:186} INFO - Started process (PID=44183) to work on /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2026-04-08T13:55:43.413+0530] {processor.py:914} INFO - Processing file /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2026-04-08T13:55:43.413+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:55:43.413+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2026-04-08T13:55:43.420+0530] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2026-04-08T13:55:43.467+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:55:43.466+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-08T13:55:43.472+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:55:43.472+0530] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2026-04-08T13:55:43.480+0530] {processor.py:208} INFO - Processing /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.070 seconds
+[2026-04-08T13:59:08.141+0530] {processor.py:186} INFO - Started process (PID=46183) to work on /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2026-04-08T13:59:08.142+0530] {processor.py:914} INFO - Processing file /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py for tasks to queue
+[2026-04-08T13:59:08.142+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:59:08.142+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2026-04-08T13:59:08.149+0530] {processor.py:925} INFO - DAG(s) 'example_complex' retrieved from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py
+[2026-04-08T13:59:08.152+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:59:08.152+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-08T13:59:08.193+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:59:08.193+0530] {dag.py:4180} INFO - Setting next_dagrun for example_complex to None, run_after=None
+[2026-04-08T13:59:08.203+0530] {processor.py:208} INFO - Processing /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/example_complex.py took 0.064 seconds

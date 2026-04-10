@@ -1,0 +1,39 @@
+[2026-04-08T13:59:12.327+0530] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2026-04-08T13:59:12.337+0530] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: sales_pipeline_demo.generate_sales scheduled__2026-04-08T08:26:00+00:00 [queued]>
+[2026-04-08T13:59:12.342+0530] {taskinstance.py:2614} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: sales_pipeline_demo.generate_sales scheduled__2026-04-08T08:26:00+00:00 [queued]>
+[2026-04-08T13:59:12.342+0530] {taskinstance.py:2867} INFO - Starting attempt 1 of 1
+[2026-04-08T13:59:12.348+0530] {taskinstance.py:2890} INFO - Executing <Task(PythonOperator): generate_sales> on 2026-04-08 08:26:00+00:00
+[2026-04-08T13:59:12.359+0530] {logging_mixin.py:190} WARNING - /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/task/task_runner/standard_task_runner.py:70 DeprecationWarning: This process (pid=46218) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2026-04-08T13:59:12.361+0530] {standard_task_runner.py:72} INFO - Started process 46234 to run task
+[2026-04-08T13:59:12.359+0530] {standard_task_runner.py:104} INFO - Running: ['airflow', 'tasks', 'run', 'sales_pipeline_demo', 'generate_sales', 'scheduled__2026-04-08T08:26:00+00:00', '--job-id', '6', '--raw', '--subdir', 'DAGS_FOLDER/sales_pipeline_demo.py', '--cfg-path', '/var/folders/df/3h4x8jc91xb09q76lzkq4bqh0000gn/T/tmpvy3_t_vg']
+[2026-04-08T13:59:12.362+0530] {standard_task_runner.py:105} INFO - Job 6: Subtask generate_sales
+[2026-04-08T14:37:52.143+0530] {job.py:229} INFO - Heartbeat recovered after 178.32 seconds
+[2026-04-08T14:40:56.762+0530] {job.py:229} INFO - Heartbeat recovered after 103.37 seconds
+[2026-04-08T14:41:37.488+0530] {job.py:229} INFO - Heartbeat recovered after 30.69 seconds
+[2026-04-08T14:42:03.242+0530] {job.py:229} INFO - Heartbeat recovered after 12.14 seconds
+[2026-04-08T14:50:59.695+0530] {job.py:229} INFO - Heartbeat recovered after 531.44 seconds
+[2026-04-08T15:14:07.416+0530] {job.py:229} INFO - Heartbeat recovered after 1387.72 seconds
+[2026-04-08T15:14:39.985+0530] {job.py:229} INFO - Heartbeat recovered after 20.62 seconds
+[2026-04-08T15:30:10.666+0530] {job.py:229} INFO - Heartbeat recovered after 925.67 seconds
+[2026-04-08T15:31:14.545+0530] {job.py:229} INFO - Heartbeat recovered after 63.88 seconds
+[2026-04-08T15:43:54.465+0530] {job.py:229} INFO - Heartbeat recovered after 754.91 seconds
+[2026-04-08T15:44:26.908+0530] {job.py:229} INFO - Heartbeat recovered after 22.43 seconds
+[2026-04-08T15:47:55.381+0530] {job.py:229} INFO - Heartbeat recovered after 93.07 seconds
+[2026-04-08T15:51:07.317+0530] {job.py:229} INFO - Heartbeat recovered after 181.86 seconds
+[2026-04-08T16:13:06.751+0530] {job.py:229} INFO - Heartbeat recovered after 1219.05 seconds
+[2026-04-08T16:14:04.971+0530] {job.py:229} INFO - Heartbeat recovered after 45.47 seconds
+[2026-04-08T16:14:15.628+0530] {job.py:229} INFO - Heartbeat recovered after 10.66 seconds
+[2026-04-08T16:14:35.746+0530] {job.py:229} INFO - Heartbeat recovered after 15.10 seconds
+[2026-04-08T16:16:00.712+0530] {job.py:229} INFO - Heartbeat recovered after 72.98 seconds
+[2026-04-08T16:17:31.602+0530] {job.py:229} INFO - Heartbeat recovered after 90.89 seconds
+[2026-04-08T18:32:40.629+0530] {local_task_job_runner.py:127} ERROR - Received SIGTERM. Terminating subprocesses
+[2026-04-08T18:32:40.687+0530] {process_utils.py:132} INFO - Sending 15 to group 46234. PIDs of all processes in the group: [46234]
+[2026-04-08T18:32:40.688+0530] {process_utils.py:87} INFO - Sending the signal 15 to group 46234
+[2026-04-08T18:32:40.690+0530] {process_utils.py:80} INFO - Process psutil.Process(pid=46234, status='terminated', exitcode=<Negsignal.SIGTERM: -15>, started='13:59:12') (46234) terminated with exit code -15
+[2026-04-08T18:32:40.696+0530] {local_task_job_runner.py:266} INFO - Task exited with return code 143
+[2026-04-08T18:32:40.780+0530] {taskinstance.py:3901} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2026-04-08T18:32:41.572+0530] {local_task_job_runner.py:245} INFO - ::endgroup::
+[2026-04-08T18:32:44.167+0530] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
+[2026-04-08T18:32:44.171+0530] {taskinstance.py:2604} INFO - Dependencies not met for <TaskInstance: sales_pipeline_demo.generate_sales scheduled__2026-04-08T08:26:00+00:00 [running]>, dependency 'Task Instance Not Running' FAILED: Task is in the running state
+[2026-04-08T18:32:44.174+0530] {taskinstance.py:2604} INFO - Dependencies not met for <TaskInstance: sales_pipeline_demo.generate_sales scheduled__2026-04-08T08:26:00+00:00 [running]>, dependency 'Task Instance State' FAILED: Task is in the 'running' state.
+[2026-04-08T18:32:44.175+0530] {local_task_job_runner.py:166} INFO - Task is not able to be run

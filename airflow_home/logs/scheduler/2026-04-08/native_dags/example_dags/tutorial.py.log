@@ -1,0 +1,239 @@
+[2026-04-08T12:39:08.926+0530] {processor.py:186} INFO - Started process (PID=13191) to work on /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T12:39:08.933+0530] {processor.py:914} INFO - Processing file /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2026-04-08T12:39:08.935+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:39:08.935+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T12:39:08.957+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T12:39:09.487+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:39:09.483+0530] {override.py:1912} INFO - Created Permission View: can edit on DAG:tutorial
+[2026-04-08T12:39:09.519+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:39:09.515+0530] {override.py:1912} INFO - Created Permission View: can delete on DAG:tutorial
+[2026-04-08T12:39:09.543+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:39:09.540+0530] {override.py:1912} INFO - Created Permission View: can read on DAG:tutorial
+[2026-04-08T12:39:09.571+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:39:09.570+0530] {override.py:1912} INFO - Created Permission View: can create on DAG Run:tutorial
+[2026-04-08T12:39:09.590+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:39:09.589+0530] {override.py:1912} INFO - Created Permission View: menu access on DAG Run:tutorial
+[2026-04-08T12:39:09.604+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:39:09.603+0530] {override.py:1912} INFO - Created Permission View: can read on DAG Run:tutorial
+[2026-04-08T12:39:09.615+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:39:09.614+0530] {override.py:1912} INFO - Created Permission View: can delete on DAG Run:tutorial
+[2026-04-08T12:39:09.616+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:39:09.616+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-08T12:39:09.638+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:39:09.638+0530] {dag.py:3262} INFO - Creating ORM DAG for tutorial
+[2026-04-08T12:39:09.655+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:39:09.655+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2026-04-07 00:00:00+00:00, run_after=2026-04-08 00:00:00+00:00
+[2026-04-08T12:39:09.694+0530] {processor.py:208} INFO - Processing /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.775 seconds
+[2026-04-08T12:41:01.732+0530] {processor.py:186} INFO - Started process (PID=13976) to work on /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T12:41:01.734+0530] {processor.py:914} INFO - Processing file /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2026-04-08T12:41:01.736+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:41:01.736+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T12:41:01.749+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T12:41:01.811+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:41:01.811+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-08T12:41:01.827+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:41:01.826+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2026-04-07 00:00:00+00:00, run_after=2026-04-08 00:00:00+00:00
+[2026-04-08T12:41:01.840+0530] {processor.py:208} INFO - Processing /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.112 seconds
+[2026-04-08T12:43:52.301+0530] {processor.py:186} INFO - Started process (PID=15585) to work on /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T12:43:52.304+0530] {processor.py:914} INFO - Processing file /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2026-04-08T12:43:52.304+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:43:52.304+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T12:43:52.313+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T12:43:52.387+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:43:52.387+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-08T12:43:52.401+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:43:52.400+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2026-04-07 00:00:00+00:00, run_after=2026-04-08 00:00:00+00:00
+[2026-04-08T12:43:52.418+0530] {processor.py:208} INFO - Processing /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.121 seconds
+[2026-04-08T12:46:31.410+0530] {processor.py:186} INFO - Started process (PID=17165) to work on /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T12:46:31.411+0530] {processor.py:914} INFO - Processing file /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2026-04-08T12:46:31.412+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:46:31.412+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T12:46:31.416+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T12:46:31.458+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:46:31.458+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-08T12:46:31.468+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:46:31.467+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2026-04-07 00:00:00+00:00, run_after=2026-04-08 00:00:00+00:00
+[2026-04-08T12:46:31.477+0530] {processor.py:208} INFO - Processing /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.068 seconds
+[2026-04-08T12:48:29.013+0530] {processor.py:186} INFO - Started process (PID=18496) to work on /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T12:48:29.014+0530] {processor.py:914} INFO - Processing file /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2026-04-08T12:48:29.015+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:48:29.015+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T12:48:29.019+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T12:48:29.062+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:48:29.062+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-08T12:48:29.071+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:48:29.071+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2026-04-07 00:00:00+00:00, run_after=2026-04-08 00:00:00+00:00
+[2026-04-08T12:48:29.081+0530] {processor.py:208} INFO - Processing /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.070 seconds
+[2026-04-08T12:49:52.199+0530] {processor.py:186} INFO - Started process (PID=19454) to work on /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T12:49:52.200+0530] {processor.py:914} INFO - Processing file /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2026-04-08T12:49:52.201+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:49:52.200+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T12:49:52.204+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T12:49:52.246+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:49:52.246+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-08T12:49:52.255+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:49:52.255+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2026-04-07 00:00:00+00:00, run_after=2026-04-08 00:00:00+00:00
+[2026-04-08T12:49:52.262+0530] {processor.py:208} INFO - Processing /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.065 seconds
+[2026-04-08T12:51:24.485+0530] {processor.py:186} INFO - Started process (PID=20428) to work on /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T12:51:24.487+0530] {processor.py:914} INFO - Processing file /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2026-04-08T12:51:24.488+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:51:24.488+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T12:51:24.493+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T12:51:24.542+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:51:24.542+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-08T12:51:24.554+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:51:24.554+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2026-04-07 00:00:00+00:00, run_after=2026-04-08 00:00:00+00:00
+[2026-04-08T12:51:24.563+0530] {processor.py:208} INFO - Processing /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.083 seconds
+[2026-04-08T12:53:01.299+0530] {processor.py:186} INFO - Started process (PID=21370) to work on /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T12:53:01.300+0530] {processor.py:914} INFO - Processing file /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2026-04-08T12:53:01.301+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:53:01.300+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T12:53:01.309+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T12:53:01.354+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:53:01.354+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-08T12:53:01.363+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:53:01.363+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2026-04-07 00:00:00+00:00, run_after=2026-04-08 00:00:00+00:00
+[2026-04-08T12:53:01.372+0530] {processor.py:208} INFO - Processing /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.075 seconds
+[2026-04-08T12:54:58.880+0530] {processor.py:186} INFO - Started process (PID=22259) to work on /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T12:54:58.881+0530] {processor.py:914} INFO - Processing file /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2026-04-08T12:54:58.882+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:54:58.882+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T12:54:58.888+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T12:54:58.935+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:54:58.935+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-08T12:54:58.947+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:54:58.947+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2026-04-07 00:00:00+00:00, run_after=2026-04-08 00:00:00+00:00
+[2026-04-08T12:54:58.955+0530] {processor.py:208} INFO - Processing /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.078 seconds
+[2026-04-08T12:56:34.398+0530] {processor.py:186} INFO - Started process (PID=23219) to work on /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T12:56:34.399+0530] {processor.py:914} INFO - Processing file /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2026-04-08T12:56:34.399+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:56:34.399+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T12:56:34.404+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T12:56:34.446+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:56:34.446+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-08T12:56:34.456+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:56:34.456+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2026-04-07 00:00:00+00:00, run_after=2026-04-08 00:00:00+00:00
+[2026-04-08T12:56:34.464+0530] {processor.py:208} INFO - Processing /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.068 seconds
+[2026-04-08T12:58:01.294+0530] {processor.py:186} INFO - Started process (PID=24151) to work on /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T12:58:01.294+0530] {processor.py:914} INFO - Processing file /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2026-04-08T12:58:01.295+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:58:01.295+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T12:58:01.299+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T12:58:01.340+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:58:01.340+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-08T12:58:01.349+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:58:01.349+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2026-04-07 00:00:00+00:00, run_after=2026-04-08 00:00:00+00:00
+[2026-04-08T12:58:01.357+0530] {processor.py:208} INFO - Processing /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.065 seconds
+[2026-04-08T12:59:26.224+0530] {processor.py:186} INFO - Started process (PID=25039) to work on /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T12:59:26.225+0530] {processor.py:914} INFO - Processing file /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2026-04-08T12:59:26.226+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:59:26.225+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T12:59:26.230+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T12:59:26.270+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:59:26.269+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-08T12:59:26.278+0530] {logging_mixin.py:190} INFO - [2026-04-08T12:59:26.278+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2026-04-07 00:00:00+00:00, run_after=2026-04-08 00:00:00+00:00
+[2026-04-08T12:59:26.285+0530] {processor.py:208} INFO - Processing /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.063 seconds
+[2026-04-08T13:00:48.104+0530] {processor.py:186} INFO - Started process (PID=25986) to work on /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:00:48.105+0530] {processor.py:914} INFO - Processing file /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2026-04-08T13:00:48.106+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:00:48.106+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:00:48.110+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:00:48.152+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:00:48.152+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-08T13:00:48.161+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:00:48.161+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2026-04-07 00:00:00+00:00, run_after=2026-04-08 00:00:00+00:00
+[2026-04-08T13:00:48.170+0530] {processor.py:208} INFO - Processing /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.068 seconds
+[2026-04-08T13:02:07.943+0530] {processor.py:186} INFO - Started process (PID=26898) to work on /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:02:07.944+0530] {processor.py:914} INFO - Processing file /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2026-04-08T13:02:07.944+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:02:07.944+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:02:07.948+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:02:07.988+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:02:07.988+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-08T13:02:07.998+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:02:07.997+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2026-04-07 00:00:00+00:00, run_after=2026-04-08 00:00:00+00:00
+[2026-04-08T13:02:08.006+0530] {processor.py:208} INFO - Processing /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.064 seconds
+[2026-04-08T13:03:29.011+0530] {processor.py:186} INFO - Started process (PID=27842) to work on /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:03:29.012+0530] {processor.py:914} INFO - Processing file /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2026-04-08T13:03:29.013+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:03:29.013+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:03:29.018+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:03:29.059+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:03:29.059+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-08T13:03:29.069+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:03:29.068+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2026-04-07 00:00:00+00:00, run_after=2026-04-08 00:00:00+00:00
+[2026-04-08T13:03:29.077+0530] {processor.py:208} INFO - Processing /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.068 seconds
+[2026-04-08T13:04:55.829+0530] {processor.py:186} INFO - Started process (PID=28863) to work on /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:04:55.829+0530] {processor.py:914} INFO - Processing file /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2026-04-08T13:04:55.830+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:04:55.830+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:04:55.834+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:04:55.876+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:04:55.875+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-08T13:04:55.885+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:04:55.885+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2026-04-07 00:00:00+00:00, run_after=2026-04-08 00:00:00+00:00
+[2026-04-08T13:04:55.893+0530] {processor.py:208} INFO - Processing /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.066 seconds
+[2026-04-08T13:06:20.057+0530] {processor.py:186} INFO - Started process (PID=29782) to work on /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:06:20.058+0530] {processor.py:914} INFO - Processing file /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2026-04-08T13:06:20.059+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:06:20.059+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:06:20.065+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:06:20.113+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:06:20.112+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-08T13:06:20.123+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:06:20.123+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2026-04-07 00:00:00+00:00, run_after=2026-04-08 00:00:00+00:00
+[2026-04-08T13:06:20.132+0530] {processor.py:208} INFO - Processing /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.077 seconds
+[2026-04-08T13:07:42.806+0530] {processor.py:186} INFO - Started process (PID=30687) to work on /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:07:42.808+0530] {processor.py:914} INFO - Processing file /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2026-04-08T13:07:42.808+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:07:42.808+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:07:42.815+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:07:42.856+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:07:42.856+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-08T13:07:42.866+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:07:42.866+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2026-04-07 00:00:00+00:00, run_after=2026-04-08 00:00:00+00:00
+[2026-04-08T13:07:42.877+0530] {processor.py:208} INFO - Processing /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.072 seconds
+[2026-04-08T13:09:04.868+0530] {processor.py:186} INFO - Started process (PID=31574) to work on /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:09:04.869+0530] {processor.py:914} INFO - Processing file /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2026-04-08T13:09:04.869+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:09:04.869+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:09:04.873+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:09:04.916+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:09:04.916+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-08T13:09:04.926+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:09:04.926+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2026-04-07 00:00:00+00:00, run_after=2026-04-08 00:00:00+00:00
+[2026-04-08T13:09:04.934+0530] {processor.py:208} INFO - Processing /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.068 seconds
+[2026-04-08T13:10:26.997+0530] {processor.py:186} INFO - Started process (PID=32514) to work on /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:10:26.998+0530] {processor.py:914} INFO - Processing file /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2026-04-08T13:10:26.999+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:10:26.998+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:10:27.003+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:10:27.043+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:10:27.043+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-08T13:10:27.052+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:10:27.052+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2026-04-07 00:00:00+00:00, run_after=2026-04-08 00:00:00+00:00
+[2026-04-08T13:10:27.059+0530] {processor.py:208} INFO - Processing /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.063 seconds
+[2026-04-08T13:11:50.891+0530] {processor.py:186} INFO - Started process (PID=33449) to work on /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:11:50.891+0530] {processor.py:914} INFO - Processing file /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2026-04-08T13:11:50.892+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:11:50.892+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:11:50.896+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:11:50.937+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:11:50.936+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-08T13:11:50.946+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:11:50.946+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2026-04-07 00:00:00+00:00, run_after=2026-04-08 00:00:00+00:00
+[2026-04-08T13:11:50.954+0530] {processor.py:208} INFO - Processing /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.064 seconds
+[2026-04-08T13:13:14.487+0530] {processor.py:186} INFO - Started process (PID=34377) to work on /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:13:14.488+0530] {processor.py:914} INFO - Processing file /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2026-04-08T13:13:14.488+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:13:14.488+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:13:14.493+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:13:14.534+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:13:14.534+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-08T13:13:14.543+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:13:14.543+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2026-04-07 00:00:00+00:00, run_after=2026-04-08 00:00:00+00:00
+[2026-04-08T13:13:14.551+0530] {processor.py:208} INFO - Processing /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.066 seconds
+[2026-04-08T13:14:36.681+0530] {processor.py:186} INFO - Started process (PID=35302) to work on /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:14:36.682+0530] {processor.py:914} INFO - Processing file /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2026-04-08T13:14:36.683+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:14:36.683+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:14:36.687+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:14:36.729+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:14:36.729+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-08T13:14:36.738+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:14:36.738+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2026-04-07 00:00:00+00:00, run_after=2026-04-08 00:00:00+00:00
+[2026-04-08T13:14:36.746+0530] {processor.py:208} INFO - Processing /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.066 seconds
+[2026-04-08T13:16:01.144+0530] {processor.py:186} INFO - Started process (PID=36265) to work on /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:16:01.145+0530] {processor.py:914} INFO - Processing file /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2026-04-08T13:16:01.145+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:16:01.145+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:16:01.149+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:16:01.189+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:16:01.188+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-08T13:16:01.197+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:16:01.197+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2026-04-07 00:00:00+00:00, run_after=2026-04-08 00:00:00+00:00
+[2026-04-08T13:16:01.206+0530] {processor.py:208} INFO - Processing /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.063 seconds
+[2026-04-08T13:17:24.938+0530] {processor.py:186} INFO - Started process (PID=37203) to work on /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:17:24.939+0530] {processor.py:914} INFO - Processing file /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2026-04-08T13:17:24.940+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:17:24.940+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:17:24.944+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:17:24.984+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:17:24.984+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-08T13:17:24.993+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:17:24.993+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2026-04-07 00:00:00+00:00, run_after=2026-04-08 00:00:00+00:00
+[2026-04-08T13:17:25.001+0530] {processor.py:208} INFO - Processing /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.064 seconds
+[2026-04-08T13:18:50.821+0530] {processor.py:186} INFO - Started process (PID=38159) to work on /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:18:50.822+0530] {processor.py:914} INFO - Processing file /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2026-04-08T13:18:50.823+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:18:50.822+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:18:50.828+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:18:50.872+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:18:50.872+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-08T13:18:50.882+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:18:50.882+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2026-04-07 00:00:00+00:00, run_after=2026-04-08 00:00:00+00:00
+[2026-04-08T13:18:51.696+0530] {processor.py:208} INFO - Processing /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.303 seconds
+[2026-04-08T13:20:59.109+0530] {processor.py:186} INFO - Started process (PID=39094) to work on /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:20:59.109+0530] {processor.py:914} INFO - Processing file /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2026-04-08T13:20:59.110+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:20:59.110+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:20:59.114+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:20:59.155+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:20:59.155+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-08T13:20:59.163+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:20:59.163+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2026-04-07 00:00:00+00:00, run_after=2026-04-08 00:00:00+00:00
+[2026-04-08T13:20:59.171+0530] {processor.py:208} INFO - Processing /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.064 seconds
+[2026-04-08T13:30:59.146+0530] {processor.py:186} INFO - Started process (PID=40077) to work on /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:30:59.149+0530] {processor.py:914} INFO - Processing file /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2026-04-08T13:30:59.150+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:30:59.150+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:30:59.165+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:30:59.320+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:30:59.320+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-08T13:30:59.350+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:30:59.350+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2026-04-07 00:00:00+00:00, run_after=2026-04-08 00:00:00+00:00
+[2026-04-08T13:30:59.378+0530] {processor.py:208} INFO - Processing /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.237 seconds
+[2026-04-08T13:35:06.269+0530] {processor.py:186} INFO - Started process (PID=41235) to work on /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:35:06.270+0530] {processor.py:914} INFO - Processing file /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2026-04-08T13:35:06.271+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:35:06.270+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:35:06.275+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:35:06.316+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:35:06.315+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-08T13:35:06.324+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:35:06.324+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2026-04-07 00:00:00+00:00, run_after=2026-04-08 00:00:00+00:00
+[2026-04-08T13:35:06.331+0530] {processor.py:208} INFO - Processing /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.063 seconds
+[2026-04-08T13:41:33.400+0530] {processor.py:186} INFO - Started process (PID=42167) to work on /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:41:33.400+0530] {processor.py:914} INFO - Processing file /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2026-04-08T13:41:33.401+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:41:33.401+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:41:33.405+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:41:33.444+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:41:33.444+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-08T13:41:33.453+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:41:33.453+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2026-04-07 00:00:00+00:00, run_after=2026-04-08 00:00:00+00:00
+[2026-04-08T13:41:33.460+0530] {processor.py:208} INFO - Processing /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.062 seconds
+[2026-04-08T13:54:16.433+0530] {processor.py:186} INFO - Started process (PID=43333) to work on /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:54:16.434+0530] {processor.py:914} INFO - Processing file /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2026-04-08T13:54:16.435+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:54:16.434+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:54:16.439+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:54:16.479+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:54:16.479+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-08T13:54:16.489+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:54:16.488+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2026-04-07 00:00:00+00:00, run_after=2026-04-08 00:00:00+00:00
+[2026-04-08T13:54:16.497+0530] {processor.py:208} INFO - Processing /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.066 seconds
+[2026-04-08T13:56:09.063+0530] {processor.py:186} INFO - Started process (PID=44424) to work on /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:56:09.063+0530] {processor.py:914} INFO - Processing file /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2026-04-08T13:56:09.064+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:56:09.064+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:56:09.070+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:56:09.117+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:56:09.117+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-08T13:56:09.127+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:56:09.127+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2026-04-07 00:00:00+00:00, run_after=2026-04-08 00:00:00+00:00
+[2026-04-08T13:56:09.135+0530] {processor.py:208} INFO - Processing /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.075 seconds
+[2026-04-08T13:57:49.776+0530] {processor.py:186} INFO - Started process (PID=45450) to work on /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:57:49.776+0530] {processor.py:914} INFO - Processing file /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2026-04-08T13:57:49.777+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:57:49.777+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:57:49.781+0530] {processor.py:925} INFO - DAG(s) 'tutorial' retrieved from /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py
+[2026-04-08T13:57:49.825+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:57:49.825+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-08T13:57:49.836+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:57:49.836+0530] {dag.py:4180} INFO - Setting next_dagrun for tutorial to 2026-04-07 00:00:00+00:00, run_after=2026-04-08 00:00:00+00:00
+[2026-04-08T13:57:49.847+0530] {processor.py:208} INFO - Processing /Users/navalyemul/Documents/uptime/airflow_venv/lib/python3.12/site-packages/airflow/example_dags/tutorial.py took 0.073 seconds

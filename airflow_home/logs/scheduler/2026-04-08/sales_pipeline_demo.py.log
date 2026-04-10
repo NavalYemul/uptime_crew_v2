@@ -1,0 +1,22 @@
+[2026-04-08T13:58:38.706+0530] {processor.py:186} INFO - Started process (PID=45893) to work on /Users/navalyemul/Documents/uptime/airflow_home/dags/sales_pipeline_demo.py
+[2026-04-08T13:58:38.707+0530] {processor.py:914} INFO - Processing file /Users/navalyemul/Documents/uptime/airflow_home/dags/sales_pipeline_demo.py for tasks to queue
+[2026-04-08T13:58:38.708+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:58:38.708+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/navalyemul/Documents/uptime/airflow_home/dags/sales_pipeline_demo.py
+[2026-04-08T13:58:38.725+0530] {processor.py:925} INFO - DAG(s) 'sales_pipeline_demo' retrieved from /Users/navalyemul/Documents/uptime/airflow_home/dags/sales_pipeline_demo.py
+[2026-04-08T13:58:38.821+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:58:38.820+0530] {override.py:1912} INFO - Created Permission View: can delete on DAG:sales_pipeline_demo
+[2026-04-08T13:58:38.825+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:58:38.825+0530] {override.py:1912} INFO - Created Permission View: can read on DAG:sales_pipeline_demo
+[2026-04-08T13:58:38.827+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:58:38.827+0530] {override.py:1912} INFO - Created Permission View: can edit on DAG:sales_pipeline_demo
+[2026-04-08T13:58:38.831+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:58:38.831+0530] {override.py:1912} INFO - Created Permission View: can delete on DAG Run:sales_pipeline_demo
+[2026-04-08T13:58:38.834+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:58:38.834+0530] {override.py:1912} INFO - Created Permission View: can create on DAG Run:sales_pipeline_demo
+[2026-04-08T13:58:38.837+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:58:38.837+0530] {override.py:1912} INFO - Created Permission View: can read on DAG Run:sales_pipeline_demo
+[2026-04-08T13:58:38.839+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:58:38.839+0530] {override.py:1912} INFO - Created Permission View: menu access on DAG Run:sales_pipeline_demo
+[2026-04-08T13:58:38.839+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:58:38.839+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-08T13:58:38.845+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:58:38.844+0530] {dag.py:3262} INFO - Creating ORM DAG for sales_pipeline_demo
+[2026-04-08T13:58:38.850+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:58:38.849+0530] {dag.py:4180} INFO - Setting next_dagrun for sales_pipeline_demo to 2026-04-08 08:26:00+00:00, run_after=2026-04-08 08:28:00+00:00
+[2026-04-08T13:58:38.896+0530] {processor.py:208} INFO - Processing /Users/navalyemul/Documents/uptime/airflow_home/dags/sales_pipeline_demo.py took 0.191 seconds
+[2026-04-08T13:59:10.301+0530] {processor.py:186} INFO - Started process (PID=46203) to work on /Users/navalyemul/Documents/uptime/airflow_home/dags/sales_pipeline_demo.py
+[2026-04-08T13:59:10.306+0530] {processor.py:914} INFO - Processing file /Users/navalyemul/Documents/uptime/airflow_home/dags/sales_pipeline_demo.py for tasks to queue
+[2026-04-08T13:59:10.306+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:59:10.306+0530] {dagbag.py:588} INFO - Filling up the DagBag from /Users/navalyemul/Documents/uptime/airflow_home/dags/sales_pipeline_demo.py
+[2026-04-08T13:59:10.324+0530] {processor.py:925} INFO - DAG(s) 'sales_pipeline_demo' retrieved from /Users/navalyemul/Documents/uptime/airflow_home/dags/sales_pipeline_demo.py
+[2026-04-08T13:59:10.327+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:59:10.327+0530] {dag.py:3239} INFO - Sync 1 DAGs
+[2026-04-08T13:59:10.375+0530] {logging_mixin.py:190} INFO - [2026-04-08T13:59:10.375+0530] {dag.py:4180} INFO - Setting next_dagrun for sales_pipeline_demo to 2026-04-08 08:26:00+00:00, run_after=2026-04-08 08:28:00+00:00
+[2026-04-08T13:59:10.386+0530] {processor.py:208} INFO - Processing /Users/navalyemul/Documents/uptime/airflow_home/dags/sales_pipeline_demo.py took 0.087 seconds
